@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Nathan Wijayanto</name>
+   <tag></tag>
+   <elementGuidId>4f45613e-95c8-4150-a69e-77ae5e177136</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mount_0_0_lG']/div/div/div/div[2]/div[5]/div[2]/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/a/div/div[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.x193iq5w.xeuugli.x13faqbe.x1vvkbs.x1xmvt09.x1lliihq.x1s928wv.xhkezso.x1gmr53x.x1cpjm7i.x1fgarty.x1943h6x.xudqn12.x676frb.x1lkfr7t.x1lbecb7.x1s688f.xzsf02u.x1yc453h</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>739d8b16-01cd-4644-a2a1-6959c9f78e34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>x193iq5w xeuugli x13faqbe x1vvkbs x1xmvt09 x1lliihq x1s928wv xhkezso x1gmr53x x1cpjm7i x1fgarty x1943h6x xudqn12 x676frb x1lkfr7t x1lbecb7 x1s688f xzsf02u x1yc453h</value>
+      <webElementGuid>f63ff1f6-c947-4593-9cd5-6f696c4eec4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>85c84be4-1252-40f6-9d62-c704ffeaf469</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nathan Wijayanto</value>
+      <webElementGuid>d9c1fa24-69a8-49c6-8850-c5b1bec8a243</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mount_0_0_lG&quot;)/div[1]/div[1]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z&quot;]/div[2]/div[@class=&quot;xds687c x1pi30zi x1e558r4 xixxii4 x13vifvy xzkaem6&quot;]/div[2]/div[1]/div[@class=&quot;__fb-dark-mode&quot;]/div[@class=&quot;xu96u03 xm80bdy x10l6tqk x13vifvy&quot;]/div[@class=&quot;x1uvtmcs x4k7w5x x1h91t0o x1beo9mf xaigb6o x12ejxvf x3igimt xarpa2k xedcshv x1lytzrv x1t2pt76 x7ja8zs x1n2onr6 x1qrby5j x1jfb8zj&quot;]/div[1]/div[@class=&quot;x1ok221b&quot;]/div[@class=&quot;x1n2onr6&quot;]/div[@class=&quot;x1jx94hy x1qpq9i9 xdney7k xu5ydu1 xt3gfkd x8ii3r7 x9f619 x6ikm8r x10wlt62&quot;]/div[@class=&quot;x2atdfe xb57i2i x1q594ok x5lxg6s x78zum5 xdt5ytf x1n2onr6 x1ja2u2z xw2csxc x7p5m3t x1odjw0f x1e4zzel x1n3te05 xvv7f4i x1cvmir6&quot;]/div[@class=&quot;x78zum5 xdt5ytf x1iyjqo2 x1n2onr6&quot;]/div[1]/div[@class=&quot;xt7dq6l x1a2a7pz x6ikm8r x10wlt62 x1n2onr6 x14atkfc&quot;]/div[@class=&quot;x9f619 x1ja2u2z x1k90msu x6o7n8i x1qfuztq x10l6tqk x17qophe x13vifvy x1hc1fzr x71s49j xh8yej3&quot;]/div[@class=&quot;x1n2onr6 x1ja2u2z x9f619 x78zum5 xdt5ytf x193iq5w x1l7klhg x1iyjqo2 xs83m0k x2lwn1j x1y1aw1k&quot;]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z x78zum5 xdt5ytf x1iyjqo2 x2lwn1j x1qughib&quot;]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z x78zum5 xdt5ytf x2lah0s x193iq5w&quot;]/div[@class=&quot;x1gslohp xktsk01 x1yztbdb x1d52u69&quot;]/div[@class=&quot;x78zum5 x1n2onr6 xh8yej3&quot;]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z xjbqb8w x1qpq9i9 xdney7k xu5ydu1 xt3gfkd xh8yej3 x10h3on&quot;]/a[@class=&quot;x1i10hfl xjbqb8w xjqpnuy xa49m3k xqeqjp1 x2hbi6w x13fuv20 xu3j5b3 x1q0q8m5 x26u7qi x972fbf xcfux6l x1qhh985 xm0m39n x9f619 x1ypdohk xdl72j9 x2lah0s xe8uvvx x2lwn1j xeuugli xexx8yu x4uap5 x18d9i69 xkhd6sd x1n2onr6 x16tdsg8 x1hl2dhg xggy1nq x1ja2u2z x1t137rt x1o1ewxj x3x9cwd x1e5q0jg x13rtm0m x1q0g3np x87ps6o x1lku1pv x1a2a7pz x6s0dn4 x1lliihq xl56j7k x1xmf6yo xw3qccf x1e56ztr xsgj6o6 x14atkfc&quot;]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z x78zum5 x2lah0s x1qughib x6s0dn4 xozqiw3 x1q0g3np x1sxyh0 xurb0ha xwib8y2 x1y1aw1k xcud41i x139jcc6 x4vbgl9 x1rdy4ex&quot;]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z x78zum5 xdt5ytf x193iq5w xeuugli x1r8uery x1iyjqo2 xs83m0k x150jy0e x1e558r4 xjkvuk6 x1iorvi4&quot;]/span[@class=&quot;x193iq5w xeuugli x13faqbe x1vvkbs x1xmvt09 x1lliihq x1s928wv xhkezso x1gmr53x x1cpjm7i x1fgarty x1943h6x xudqn12 x676frb x1lkfr7t x1lbecb7 x1s688f xzsf02u x1yc453h&quot;]</value>
+      <webElementGuid>876698e1-1c33-4ee5-a061-ffa8169d8b6d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mount_0_0_lG']/div/div/div/div[2]/div[5]/div[2]/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/a/div/div[2]/span</value>
+      <webElementGuid>fb2386a8-7b7e-4da5-b074-6ff8c196d39d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Semua Profil'])[1]/preceding::span[1]</value>
+      <webElementGuid>83fc6eb5-f4af-441e-922b-0dd5b5a4a24c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Setelan &amp; privasi'])[1]/preceding::span[2]</value>
+      <webElementGuid>03eb85de-9580-4d75-8235-56800f6c8d97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Nathan Wijayanto']/parent::*</value>
+      <webElementGuid>5265f065-112c-4e04-83b0-23049d20d183</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/div[2]/span</value>
+      <webElementGuid>d61d4519-c59c-4371-b696-a024faaa1af9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Nathan Wijayanto' or . = 'Nathan Wijayanto')]</value>
+      <webElementGuid>950474fd-c9c9-43d2-920b-fb56363e994d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
